@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+# Hi, I'm Eman! 👋
+
+I'm a fourth-year university student passionate about technology and its potential to transform industries. Currently, I'm learning about the impact of Artificial Intelligence (AI) in the healthcare sector.
+
+## 🚀 Skills 
+- **Languages**: Python, Java, JavaScript
+- **Basics**: HTML, CSS, SQL
+- **Tools**: Git, GitHub, VS Code
+
+<!-- ## 🌟 Projects
+- [**Student Portal**](link-to-project): A web application for students to check their grades and schedules. Built with HTML, CSS, and JavaScript.
+- [**Simple Calculator**](link-to-project): A basic calculator app created using Python.
+
+## 📫 Contact Me
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile) -->
+
+## 🌱 Interests
+I'm deeply interested in how technology, especially AI, can revolutionize healthcare.
